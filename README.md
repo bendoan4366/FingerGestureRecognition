@@ -17,5 +17,4 @@ Recognizing "Hand Gestures" using OpenCV and Python.
 To understand how this works, please read the blog posts given below.
 
 #### Big shout out to Gogul Ilango for the tutorial, found here: 
-* [Hand Gesture Recognition using Python and OpenCV - Part 1]
-* [Hand Gesture Recognition using Python and OpenCV - Part 2]
+* https://gogul.dev/software/hand-gesture-recognition-p2
